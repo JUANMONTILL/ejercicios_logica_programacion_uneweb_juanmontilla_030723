@@ -4,7 +4,7 @@ int main() {
   //Variables en el lenguaje C.
 
   /*
-    Las variables son contenedore para almacenar valores de datos, como numeros y caracteres.
+    Las variables son contenedores para almacenar valores de datos, como numeros y caracteres.
 
     En C, hay diferentes tipos de variable (definidas con diferentes palabras clave), por ejemplo:
 
